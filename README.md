@@ -1,2 +1,2 @@
-# cmake-c--project-demo
+# cmake-cpp-project-demo
 c++ demo
